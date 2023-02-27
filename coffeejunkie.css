@@ -1,0 +1,79 @@
+/* CSS file for Coffee Junkie Recording website */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #609;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h2 {
+    color: #907f;
+    font-style: italic;
+    font-size: 1.5em;
+  }
+  
+  p, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  em {
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  strong {
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  .introductio {
+    font-size: 1.5em;
+    color: #72005f;
+    font-style: italic;
+  }
+  
+  a:link {
+    color: #609;
+  }
+  
+  a:visited {
+    color: #876399;
+  }
+  
+  a:hover {
+    color: #390;
+  }
+  
+  .navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #d9eece;
+    border: 1px solid #4c0072;
+    border-right: solid 1px;
+    border-left: solid 1px;
+    border-bottom: solid 1px;
+    display: flex;
+  }
+  
+  .navigation a {
+    text-decoration: none;
+    color: #390;
+    font-style: bold;
+    display: block;
+    padding: .75em 1em .75em 1em;
+  }
+  
+  .navigation a:hover {
+    background-color: aliceblue;
+  }
+  
+  
+  
+  
